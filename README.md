@@ -48,8 +48,6 @@ I thrive on **coding, problem-solving, and exploring new technologies** to build
 
 ---
 
-### 💡 Fun Fact  
-*"Coding is not just a profession, it's my art!"*
 
 ### Contributions
 ![snake_gif](https://github.com/SSR707/SSR707/blob/output/github-contribution-grid-snake-dark.svg)
