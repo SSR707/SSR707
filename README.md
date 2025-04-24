@@ -1,12 +1,55 @@
-<h1 align="center">Hi 👋, I'm Samnadar</h1>
-<h3 align="center">I’m a passionate Full Stack Developer from Uzbekistan</h3>
+<div align="center">
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Samandar;This+is..;..my+Github..;" alt="Typing SVG"/></h1> 
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+</div>
 
-- 📫 How to reach me **samandarshavkatov07@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# 👋 Welcome to My GitHub!  
+
+Hi there! I'm **Samandar**, a passionate **Full Stack Developer** dedicated to crafting **dynamic, user-friendly, and scalable web solutions**. 🚀  
+I thrive on **coding, problem-solving, and exploring new technologies** to build impactful projects.  
+
+---
+
+## 🚀 About Me  
+
+🔹 **Tech Stack:**  
+&nbsp;&nbsp;&nbsp;📌 JavaScript (**Node.js, React, Express.js**), Python, TypeScript  
+&nbsp;&nbsp;&nbsp;📌 Databases: **MongoDB, PostgreSQL, MySQL**  
+
+🔹 **Currently Exploring:**  
+&nbsp;&nbsp;&nbsp;📌 **Advanced backend systems, cloud integrations, and microservices**  
+
+🔹 **My Goals:**  
+&nbsp;&nbsp;&nbsp;📌 **Contribute to open-source projects and build innovative solutions**  
+
+🔹 **Tools I Love:**  
+&nbsp;&nbsp;&nbsp;🛠️ **VS Code, Git, Postman, Docker, Linux**  
+
+---
+
+### 📊 GitHub Insights  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SSR707&show_icons=true&theme=radical&count_private=true)  
+
+---
+
+### 💻 Tech Skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,mui,nodejs,express,nestjs,python,c,postgres" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,linux,bash,vscode,vercel,aws,emotion,netlify,postman,prisma,npm" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+- 📈 **Contribution Graph:**  
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SSR707&theme=react-dark&hide_border=true&area=true)
+
+---
+
+### 💡 Fun Fact  
+*"Coding is not just a profession, it's my art!"*
+
+### Contributions
+![snake_gif](https://github.com/SSR707/SSR707/blob/output/github-contribution-grid-snake-dark.svg)
