@@ -7,7 +7,7 @@
 
 # 👋 Welcome to My GitHub!  
 
-Hi there! I'm **Samandar**, a passionate **Full Stack Developer** dedicated to crafting **dynamic, user-friendly, and scalable web solutions**. 🚀  
+Hi there! I'm **Samandar Shavkatov**, a passionate **Full Stack Developer** dedicated to crafting **dynamic, user-friendly, and scalable web solutions**. 🚀  
 I thrive on **coding, problem-solving, and exploring new technologies** to build impactful projects.  
 
 ---
@@ -51,3 +51,11 @@ I thrive on **coding, problem-solving, and exploring new technologies** to build
 
 ### Contributions
 ![snake_gif](https://github.com/SSR707/SSR707/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+<div align="center">
+  <h2>🚀 Github</h2>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+</div>
+
